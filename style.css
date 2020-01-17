@@ -10,7 +10,8 @@ nav a {
 }
 
 img {
-  margin: center;
+  display: block;
+  
 }
 
 body {
