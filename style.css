@@ -4,7 +4,7 @@ body {
   margin: auto;
 }
 
-p#featured_property {
+#featured_property {
   width: 800px;
   text-align: center;
 }
