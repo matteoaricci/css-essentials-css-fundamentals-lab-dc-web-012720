@@ -6,7 +6,7 @@ body {
 
 p#featured_proptery {
   width: 800px;
-  margin: auto;
+  text-align: auto;
 }
 
 h1 {
