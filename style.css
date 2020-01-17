@@ -9,6 +9,10 @@ section > p {
   text-align: center;
 }
 
+figcaption {
+  text-align: center;
+}
+
 header {
   color: blue;
   text-align: center;
