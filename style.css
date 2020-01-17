@@ -4,8 +4,9 @@ body {
   margin: auto;
 }
 
-p {
-  
+p#featured_proptery {
+  width: 800px;
+  margin: auto;
 }
 
 img {
