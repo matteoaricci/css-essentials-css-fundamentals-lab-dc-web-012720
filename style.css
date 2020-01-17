@@ -4,9 +4,9 @@ body {
   margin: auto;
 }
 
-p#featured_proptery {
+p {
   width: 800px;
-  text-align: auto;
+  text-align: center;
 }
 
 h1 {
